@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordutils/static/css/main.e6c13ad2.css",
+    "main.js": "/wordutils/static/js/main.b3010247.js",
+    "static/js/787.221a1187.chunk.js": "/wordutils/static/js/787.221a1187.chunk.js",
+    "index.html": "/wordutils/index.html",
+    "main.e6c13ad2.css.map": "/wordutils/static/css/main.e6c13ad2.css.map",
+    "main.b3010247.js.map": "/wordutils/static/js/main.b3010247.js.map",
+    "787.221a1187.chunk.js.map": "/wordutils/static/js/787.221a1187.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b3010247.js"
+  ]
+}
